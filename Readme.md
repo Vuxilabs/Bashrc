@@ -7,6 +7,8 @@
 Konfigurasi bash kustom yang dirancang untuk meningkatkan produktivitas developer dengan workflow yang cepat, estetik, dan fungsional.
 
 
+jawa
+
 
 ---
 
